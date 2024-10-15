@@ -25,3 +25,6 @@ This repository is for things related to the course Scientific Methodology, Regu
   - Proposing a better representation (hand-drawing is fine) that passes the checklist.
 - :white_check_mark: Report this work for at least 3 figures on you github/gitlab project.
 - MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
+
+15/10-2024: Made a private GitHub account (this one) and started working here instead because enterprise repositories were
+readable by kth only.  
