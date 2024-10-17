@@ -13,3 +13,16 @@ ggplot(meanMTdf, aes(ID, MT)) +
   geom_point() +
   geom_smooth(method='lm')
 ```
+
+```{r linear modeling}
+model <- lm(MT~ID, data = meanMTdf)
+summary(model)
+```
+
+
+
+
+
+
+
+
