@@ -16,7 +16,6 @@ This repository is for things related to the course Scientific Methodology, Regu
 
 ### [Une photo de chat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chat_mi-long.jpg/301px-Chat_mi-long.jpg)
 
-
 <ins> Homework week 2: 3 oct - 17 oct </ins>
 
 - :white_check_mark: Read Popper’s text and write a short summary in your GitHub repository
