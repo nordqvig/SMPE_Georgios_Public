@@ -18,10 +18,17 @@ ggplot(meanMTdf, aes(ID, MT)) +
 model <- lm(MT~ID, data = meanMTdf)
 summary(model)
 ```
+Repeat data analysis using rawdata instead of meandata
+```{r}
+ggplot(rawdf, aes(ID, MT)) +
+  geom_point() +
+  geom_smooth(method='lm')
+```
 
-
-
-
+```{r linear modeling}
+model <- lm(MT~ID, data = rawdf)
+summary(model)
+```
 
 
 

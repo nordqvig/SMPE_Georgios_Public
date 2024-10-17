@@ -1,0 +1,35 @@
+Setup and read data files:
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+meanMTdf <- read.csv("/Users/georgios/Documents/GitHub/SMPE2024GeorgiosPublic/Lecture3(17Oct)/MYm2r_pointingxp/MYdataExp2/MeanMTExp2.csv")
+rawdf <- read.csv("/Users/georgios/Documents/GitHub/SMPE2024GeorgiosPublic/Lecture3(17Oct)/MYm2r_pointingxp/MYdataExp2/RawDataExp2.csv")
+
+```
+Plotting and linear regression on meandata:
+```{r}
+ggplot(meanMTdf, aes(ID, MT)) +
+  geom_point() +
+  geom_smooth(method='lm')
+
+```
+```{r linear modeling}
+model <- lm(MT~ID, data = meanMTdf)
+summary(model)
+```
+
+Plotting and linear regression on rawdata:
+
+```{r}
+ggplot(rawdf, aes(ID, MT)) +
+  geom_point() +
+  geom_smooth(method='lm')
+
+```
+
+```{r linear modeling}
+model <- lm(MT~ID, data = rawdf)
+summary(model)
+```
+```{r}
+```
