@@ -77,4 +77,15 @@ however the very low R2 value also means that the model is not to be taken serio
 I believe this model fitting is so poor because the experiment quality was quite low. The width is measured in pixels, 
 such that [1, 2, 4] are very thin widths to be able to click on. I am also using a trackpad which doesn't help. This issue 
 is manifested in the fact that I had **215** misses. Compared to 3 misses in experiment 1. I wouldn't use these finding 
-to reach any conclusions, since the model fit is so poor.  
+to reach any conclusions, since the model fit is so poor. 
+
+
+___
+### Discussion
+
+One issue with these problems is that people get tired. The clicking-task that I performed depends
+a lot on how invested the test-person is in the experiment. 
+
+Worthwhile thinking before an experiment: Consider what CAN go wrong, then make sure you adapt the experiment so that 
+they don't impact the quality of the experiment. 
+
