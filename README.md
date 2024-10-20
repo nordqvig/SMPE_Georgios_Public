@@ -1,5 +1,5 @@
 ## SMPE Readme
-This repository is for things related to the course Scientific Methodology, Regulatory and Ethical Data Usage at INP - UGA fall 2024. All homework assignments etc. will tracked here.
+This repository is for things related to the course Scientific Methodology, Regulatory and Ethical Data Usage at INP Ensimag fall 2024. All homework assignments etc. will tracked here.
 
 <ins> Homework week 1: 26 sep - 3 oct </ins>
 
