@@ -4,8 +4,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 library(ggplot2)
-meanMTdf <- read.csv("/Users/georgios/Documents/GitHub/SMPE2024GeorgiosPublic/Lecture3(17Oct)/MYm2r_pointingxp/MYdata/MYMeanMT.csv")
-rawdf <- read.csv("/Users/georgios/Documents/GitHub/SMPE2024GeorgiosPublic/Lecture3(17Oct)/MYm2r_pointingxp/MYdata/MYRawData.csv")
+meanMTdf <- read.csv("/Users/georgios/Documents/GitHub/SMPE_Georgios_Public/Lecture3(17Oct)/MYm2r_pointingxp/MYdata/MYMeanMT.csv")
+rawdf <- read.csv("/Users/georgios/Documents/GitHub/SMPE_Georgios_Public/Lecture3(17Oct)/MYm2r_pointingxp/MYdata/MYRawData.csv")
 ```
 
 ```{r}
