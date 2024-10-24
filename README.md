@@ -32,4 +32,5 @@ readable by kth only.
 
 <ins> Homework week 4: 17 oct - 24 oct </ins> <br>
 <ins> Homework week 4: 24 oct - 7 nov </ins>
+Restructure github repo to future-proof in accordance with lecture 4.
 
