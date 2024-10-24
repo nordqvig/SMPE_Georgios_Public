@@ -22,7 +22,7 @@ they usually look like this and I would say this figure is appropriate for a fin
 
 ## Catastrophes Naturelles (pdf page 30)
 
-![Catastrophes Naturelles](https://gits-15.sys.kth.se/geonor/SMPE2024Georgios/blob/main/Homework%20week%202/Catastrophes%20Naturelles%20figure.png?raw=true)
+![Catastrophes Naturelles](https://github.com/nordqvig/SMPE_Georgios_Public/blob/main/Homework%20week%202/Catastrophes%20Naturelles%20figure.png)
 
 - **Data**: These checkboxes are all okay. Appropriate choice of graphic to show historical curve.
 - **Graphical objects**: There is actually nothing wrong with the graphics of this figure. Colors etc. all work well.
@@ -35,7 +35,7 @@ they usually look like this and I would say this figure is appropriate for a fin
 
 ## Temperature cooling scheme figure
 
-![Temperature cooling scheme](https://gits-15.sys.kth.se/geonor/SMPE2024Georgios/blob/main/Homework%20week%202/Alpha%20values%20figure.png?raw=true)
+![Temperature cooling scheme](https://github.com/nordqvig/SMPE_Georgios_Public/blob/main/Homework%20week%202/Alpha%20values%20figure.png)
 
 - **Data**: No confidence intervals. Unclear how the curves are built 
 - **Graphical objects**: Colors are fine. However, there are no labels on axis, no units, and the two dottes lines are a bit too similar.
