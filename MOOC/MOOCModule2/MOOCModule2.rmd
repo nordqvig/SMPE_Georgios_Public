@@ -42,4 +42,6 @@ Main goal: transparency
 
 An article does not tell the whole story behind its production. The computational document (notebook) bridges this gap.
 
-## Section 4A: Getting started with Jupyter (see Jupyter notebook file)
+## Section 4A: Getting started with Jupyter
+
+Used the FUN hosted Jupyter notebook to follow the tutorial.
