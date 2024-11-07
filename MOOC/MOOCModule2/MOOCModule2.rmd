@@ -45,3 +45,21 @@ An article does not tell the whole story behind its production. The computationa
 ## Section 4A: Getting started with Jupyter
 
 Used the FUN hosted Jupyter notebook to follow the tutorial.
+
+## Section 5: Working with others
+
+Watched video and completed quiz. Personally, I prefer to use github/gitlab for version control and sustainable safekeeping.
+
+## Section 6: Comparative study
+
+The orgmode notebook is impressive! But I will subscribe to producing reproducible research using the Jupyter notebook, which I am already familiar with and is more than enough for my needs.
+
+## Section 7: Installation
+Jupyter notebook and github successfully configured.
+
+## Section 8: Exercises
+
+
+
+
+
