@@ -6,3 +6,7 @@ output: html_document
 Completed quiz 100%.
 
 ## Section 1:
+
+### Financial crisis 2008:
+Reinhart and Rogoff published findings based on nonsensical calculations and questionable data-analysis that lead nations to adopt the "Foreign debt should not exceed 90% of GDP" idea. The article was cast aside by the academic community later, when it was shown to be erroneous, but the economic policies of the countries were already in place.
+
