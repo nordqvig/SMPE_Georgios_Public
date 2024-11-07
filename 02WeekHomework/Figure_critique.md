@@ -22,7 +22,7 @@ they usually look like this and I would say this figure is appropriate for a fin
 
 ## Catastrophes Naturelles (pdf page 30)
 
-![Catastrophes Naturelles](https://github.com/nordqvig/SMPE_Georgios_Public/blob/main/Homework%20week%202/Catastrophes%20Naturelles%20figure.png)
+![Catastrophes Naturelles](https://github.com/nordqvig/SMPE_Georgios_Public/blob/main/02WeekHomework/Catastrophes_naturelles_figure.png)
 
 - **Data**: These checkboxes are all okay. Appropriate choice of graphic to show historical curve.
 - **Graphical objects**: There is actually nothing wrong with the graphics of this figure. Colors etc. all work well.
