@@ -2,8 +2,8 @@ Setup and read data files:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(ggplot2)
-meanMTdf <- read.csv("/Users/georgios/Documents/GitHub/SMPE2024GeorgiosPublic/Lecture3(17Oct)/MYm2r_pointingxp/MYdataExp2/MeanMTExp2.csv")
-rawdf <- read.csv("/Users/georgios/Documents/GitHub/SMPE2024GeorgiosPublic/Lecture3(17Oct)/MYm2r_pointingxp/MYdataExp2/RawDataExp2.csv")
+meanMTdf <- read.csv("/Users/georgios/Documents/GitHub/SMPE2024GeorgiosPublic/Pointing_analysis/MYm2r_pointingxp/MYdataExp2/MeanMTExp2.csv")
+rawdf <- read.csv("/Users/georgios/Documents/GitHub/SMPE2024GeorgiosPublic/Pointing_analysis/MYm2r_pointingxp/MYdataExp2/RawDataExp2.csv")
 
 ```
 Plotting and linear regression on meandata:
