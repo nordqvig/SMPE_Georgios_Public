@@ -34,7 +34,7 @@ readable by kth only.
 
 <ins> Homework week 5: 7 nov - 14 nov </ins>
 
-- :white_check_mark: Compute Confidence Intervals for the Parralel Quicksort data 
+- :white_check_mark: Compute Confidence Intervals for the Parallel Quicksort data 
 - MOOC Module 2 Section 8 (Challenger)
 
 
