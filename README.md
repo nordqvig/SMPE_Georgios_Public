@@ -28,9 +28,15 @@ This repository is for things related to the course Scientific Methodology, Regu
 15/10-2024: Made a private GitHub account (this one) and started working here instead because enterprise repositories were
 readable by kth only.  
 
-<ins> Homework week 3: 3 oct - 17 oct </ins> <br>
-
-<ins> Homework week 4: 17 oct - 24 oct </ins> <br>
 <ins> Homework week 4: 24 oct - 7 nov </ins>
-Restructure github repo to future-proof in accordance with lecture 4.
+
+- :white_check_mark: Restructure github repo to future-proof in accordance with lecture 4.
+
+<ins> Homework week 5: 7 nov - 14 nov </ins>
+
+- :white_check_mark: Compute Confidence Intervals for the Parralel Quicksort data 
+- MOOC Module 2 Section 8 (Challenger)
+
+
+
 
