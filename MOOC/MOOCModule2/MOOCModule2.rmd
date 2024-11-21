@@ -59,7 +59,7 @@ Jupyter notebook and github successfully configured.
 
 ## Section 8: Exercises
 
-Challenger:
+Challenger: see exo5_en.ipynb for progress.
 
 
 
