@@ -9,7 +9,7 @@ This repository is for things related to the course Scientific Methodology, Regu
 - :white_check_mark: Register to the MOOC on Reproducible Research
 -  Follow modules 1 + 2 of the MOOC with as much exercises as possible (except the last one of module2, on Challenger; watching interviews is optional)
     - :white_check_mark: Module 1
-    - Module 2
+    - :white_check_mark: Module 2
 - :white_check_mark: Set up a computational document system (e.g., Rstudio or Jupyter on your laptop or through the UGA JupyterHub).
 - :white_check_mark: Report the URL of your git project, your mattermost ID on the Pad.
 - :white_check_mark: Start learning R by reading the R crash course for computer scientists.
@@ -35,8 +35,18 @@ readable by kth only.
 <ins> Homework week 5: 7 nov - 14 nov </ins>
 
 - :white_check_mark: Compute Confidence Intervals for the Parallel Quicksort data 
-- MOOC Module 2 Section 8 (Challenger)
+- :white_check_mark: MOOC Module 2 Section 8 (Challenger)
 
+<ins> Homework week 6: 14 nov - 21 nov </ins>
+
+ - For nov 28th, read articles posted:
+   - Explain how and why citations are used
+   - qualify the journal in a few words
+ - :white_check_mark: Fit a linear model to Parallel Quicksort data
+
+<ins> Homework week 6: 21 nov - 28 nov </ins>
+
+- Complete the peer-evaluation on the MOOC 
 
 
 
