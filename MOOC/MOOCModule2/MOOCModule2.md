@@ -61,8 +61,14 @@ Jupyter notebook and github successfully configured.
 
 Challenger: See challenger.ipynb for finished solution.
 
-*HW week2: Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.*
+*HW week2: Write a short text explaining what is good and wrong about this document (you may want to provide an updated 
+version of the notebook) and upload on your github/gitlab space.*
 
+My (updated) version of the notebook can be found in this directory (challenger.ipynb). The .pdf explaining the generalized 
+linear model through the example of risk of suffering from an illness at a certain age is very illustrative. It exemplifies 
+in what situations a GLM should be used, as opposed to an ordinary linear fit. Applying this thinking to the challenger
+case was good to see this first-hand. It was tricky to find the mistake in the MOOC notebook (removing the successful launches)
+but it did feel a bit strange when I first read it. After that was fixed, applying the GLM lead to the sought after conclusion.
 
 
 
