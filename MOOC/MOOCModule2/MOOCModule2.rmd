@@ -59,7 +59,13 @@ Jupyter notebook and github successfully configured.
 
 ## Section 8: Exercises
 
-Challenger: see exo5_en.ipynb for progress.
+Challenger: See challenger.ipynb for finished solution.
+
+*HW week2: Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.*
+
+
+
+
 
 
 
