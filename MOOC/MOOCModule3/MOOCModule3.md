@@ -19,6 +19,14 @@ Importing
 - pandas "skiprow=n" to skip rows when reading data
 Quiz done
 
+## Section 4:
 Verifying and inspecting
 - Check the data, make sure its formatted the way we intend it to be.
+Quiz done
+
+## Section 5:
+Replicable analysis includes all the data in executable form and explains 
+decisions made. It is at this level that most errors occur, when handling the data
+before we start analyzing it.  
+
 Quiz done
