@@ -48,5 +48,9 @@ readable by kth only.
 
 - Complete the peer-evaluation on the MOOC 
 
+Homework moving forward:
+- :white_check_mark: Complete the exercise at end of MOOC module 3.
+- 
+
 
 
