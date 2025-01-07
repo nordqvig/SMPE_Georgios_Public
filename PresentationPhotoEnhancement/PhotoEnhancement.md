@@ -11,9 +11,23 @@ You will present
 
 ### The problem it tries to address
 
+Augmented reality beauty filters allow people to modify their appearance in photos and video. This can allow them to 
+project an image they are more confident with and to create more visually appealing content.   
+
 ### To what extent it does
 
+The technology itself is very well-developed. There are filters for reducing dark spots, scars, birthmarks, blemishes, etc...
+Augmented reality filters can also alter colors, lighting, contrast and many other image properties. They can even 
+change the size of certain features, allowing you for example a smaller nose or bigger eyes. So when it comes to the 
+capabilities of the technology itself, it is very capable of doing what "we want it to". However there are problems 
+arising from its use...
+
 ### Resulting other usages/problems
+
+- mental-health: beauty filters result in unrealistic expectations on appearances, particularly affecting young girls 
+
++ trying on products: cosmetic company websites can allow you to try a product by proposing a beauty-filter that gives 
+the same result
 
 ### ADEME 
 
