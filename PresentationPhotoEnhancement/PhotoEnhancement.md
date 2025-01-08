@@ -4,7 +4,7 @@
 Material: https://cacm.acm.org/news/filtering-for-beauty/
 
 You will present 
-- 1 the problems it tries to address
+- 1 the problems it tries to 
 - 2 to what extent it does
 - 3 whether it unlocked other usages/problems. 
 - 4 Indicate in which of the 4th scenarios of the ADEME (https://transitions2050.ademe.fr/en) this technology is rooted.
