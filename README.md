@@ -48,9 +48,10 @@ readable by kth only.
 
 - Complete the peer-evaluation on the MOOC 
 
-Homework moving forward:
-- :white_check_mark: Complete the exercise at end of MOOC module 3.
-- 
+Homework moving forward (from now on all homework will be listed here instead):
+- :white_check_mark: More work on parallel quicksort data. 
+- :white_check_mark: Complete the peer-assessed exercise at end of MOOC module 3. Task 1: CO2 Concentration 
+- :white_check_mark: Complete the presentation on Augmented Reality Technologies, for Thursday Jan 9
 
 
 
